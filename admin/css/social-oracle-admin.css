@@ -1,0 +1,34 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ #socialoracle-settings .logo-container {
+     display: inline-block;
+     color: #454545;
+ }
+
+ #socialoracle-settings .logo-container > * {
+     float: left;
+     line-height: 50px;
+ }
+
+ #socialoracle-settings .logo-container > span {
+     font-size: 32px;
+ }
+ #socialoracle-settings .top-logo {
+     width: 50px;
+ }
+
+ #socialoracle-settings .label {
+     font-weight: 700;
+     font-size: 16px;
+     margin-bottom: 10px;
+ }
+
+ #socialoracle-settings input[type=text] {
+     width: 75%;
+     height: 42px;
+     line-height: 32px;
+     font-size: 18px;
+ }
